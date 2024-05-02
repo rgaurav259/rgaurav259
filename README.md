@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is gaurav Kumar and I'm a Passionate Salesforce developer , from India</h2>
+<h2 align="left">Hi 👋! My name is gaurav and I'm a Passionate Salesforce developer from India</h2>
 
 ###
 
